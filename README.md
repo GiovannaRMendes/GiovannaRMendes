@@ -8,14 +8,14 @@
 
 <div>
   <a href="https://github.com/GiovannaRMendes">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=GiovannaRMendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaRMendes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=GiovannaRMendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width ="500em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaRMendes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Giovanna-C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="Giovanna-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Giovanna-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
   
 # 
