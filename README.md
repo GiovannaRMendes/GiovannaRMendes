@@ -1,7 +1,7 @@
 ## Hi, I'm Giovanna 🥰
 
-- 📚 I’m currently studying at UFMS
-- 👩‍💻 I'm attending classes on Computer Science
+- 👩‍💻 I graduated in Computer Science
+- 📚 I’m currently studying MongoDB, Spark for improvement
 
 #  
 
