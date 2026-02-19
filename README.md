@@ -5,10 +5,10 @@
 
 #  
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/GiovannaRMendes">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaRMendes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
  
   
 <div align="center" style="display: inline_block"><br>
