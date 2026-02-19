@@ -3,7 +3,6 @@
 - 👩‍💻 I graduated in Computer Science
 - 📚 I’m currently studying MongoDB, Spark for improvement
 
-#  
 
 <!-- <div align="center">
   <a href="https://github.com/GiovannaRMendes">
@@ -21,7 +20,6 @@
   <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
   
-# 
  <div align="center"> 
    <a href="https://www.linkedin.com/in/giovanna-rodrigues-mendes-298140286/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
